@@ -1,2 +1,2 @@
-this is just calculator.
-used to calculate the operands.
+# this is just calculator.
+# used to calculate the operands.
