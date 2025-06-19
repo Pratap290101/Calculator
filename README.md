@@ -1,1 +1,2 @@
-this is just calculator
+this is just calculator.
+used to calculate the operands.
